@@ -1,0 +1,15 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  name: MyString
+  dob: 2000-01-01
+  email: one@example.com
+  phone_number: "555-0001"
+  address: 123 Main St
+
+two:
+  name: MyStringTwo
+  dob: 2001-02-02
+  email: two@example.com
+  phone_number: "555-0002"
+  address: 456 Oak Ave
